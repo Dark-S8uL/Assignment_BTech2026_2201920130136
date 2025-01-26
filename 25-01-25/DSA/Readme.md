@@ -10,13 +10,13 @@ This repository contains solutions to three coding problems sourced from **LeetC
 **Problem Statement**:  
 You are given a string `s` consisting of words separated by spaces. A word is defined as a contiguous sequence of non-space characters. Your task is to count the number of segments (words) in the string.
 
----
+
 
 ### Problem 2: Set Matrix Zeroes
 **Problem Statement**:  
 Given an `m x n` matrix, if an element is 0, set its entire row and column to 0. The transformation must be done in-place with minimal extra space usage.
 
----
+
 
 ### Problem 3: Remove Duplicates from Sorted Array II
 **Problem Statement**:  
