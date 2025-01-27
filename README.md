@@ -6,7 +6,7 @@ This repository contains daily solutions for assignments as per the guidelines p
 
 ## Assignment Details
 
-### 1. Daily Exercises
+### Daily Exercises
 Each day, the following problems are solved and updated in this repository:
 
 - **Data Structures and Algorithms (DSA)**  
